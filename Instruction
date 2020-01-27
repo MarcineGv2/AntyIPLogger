@@ -1,0 +1,15 @@
+1. Required packages:
+
+- Preferably php7.2
+
+2. Installation:
+
+- Everything is described in the instruction.txt file
+
+3. Service:
+
+- Start (./run start)
+
+- Stop (./run stop)
+
+- Delete old photos (php bot.php -i 2)
